@@ -1,0 +1,32 @@
+# Local configuration
+local.properties
+
+# Gradle & Kotlin
+.gradle/
+.kotlin/
+build/
+app/build/
+*/build/
+
+# IDE & Native build
+.idea/
+*.iml
+.cxx/
+.externalNativeBuild/
+captures/
+
+# Built application & compiled files
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+*.hprof
+
+# Keystores & signing
+*.jks
+*.keystore
+
+# OS generated files
+.DS_Store
+Thumbs.db

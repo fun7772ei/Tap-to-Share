@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Pure OLED Neutral Dark -->
+    <color name="bg_canvas">#000000</color>
+    <color name="surface_card">#1C1C1E</color>
+    <color name="surface_card_elevated">#262629</color>
+    <color name="surface_subtle">#2C2C2E</color>
+    <color name="divider_inset">#1AFFFFFF</color>
+
+    <color name="accent_primary">#18C47E</color>
+    <color name="accent_cyan">#E5E5EA</color>
+    <color name="accent_iris">#A1A1AA</color>
+    <color name="accent_emerald">#22C55E</color>
+    <color name="accent_amber">#F59E0B</color>
+    <color name="accent_coral">#F87171</color>
+
+    <color name="text_primary">#F2F2F2</color>
+    <color name="text_secondary">#8E8E93</color>
+    <color name="text_tertiary">#636366</color>
+
+    <color name="nav_dock_fill">#EB1C1C1E</color>
+    <color name="nav_dock_stroke">#24FFFFFF</color>
+    <color name="nav_indicator">#1FFFFFFF</color>
+    <color name="button_monochrome_fill">#F2F2F2</color>
+    <color name="button_monochrome_text">#121214</color>
+</resources>

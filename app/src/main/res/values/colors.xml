@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Neutral System Light -->
+    <color name="bg_canvas">#F5F6F8</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="surface_card_elevated">#FAFAFC</color>
+    <color name="surface_subtle">#ECEEF2</color>
+    <color name="divider_inset">#12000000</color>
+
+    <color name="accent_primary">#12A86B</color>
+    <color name="accent_cyan">#1A1A1A</color>
+    <color name="accent_iris">#525252</color>
+    <color name="accent_emerald">#16A34A</color>
+    <color name="accent_amber">#D97706</color>
+    <color name="accent_coral">#DC2626</color>
+
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#737373</color>
+    <color name="text_tertiary">#9CA3AF</color>
+
+    <color name="nav_dock_fill">#F2FFFFFF</color>
+    <color name="nav_dock_stroke">#14000000</color>
+    <color name="nav_indicator">#10000000</color>
+    <color name="button_monochrome_fill">#1A1A1A</color>
+    <color name="button_monochrome_text">#FFFFFF</color>
+</resources>
